@@ -89,3 +89,43 @@ Concession first, because A earned it: the 835 stream is not a truth oracle. I o
 **Converged position:** the epistemic warranty is real only where truth is *manufactured under an adversarial external oracle* and sold to a buyer with a *symmetric loss function*. Risk adjustment is the one place in the economy where both already exist and the downside is federally extrapolated. That's the company.
 
 ---
+
+## Round 4 — Debater A (final kill shots)
+
+Round 3 acknowledged as the best turn either side produced. Four remaining shots; if the thesis survives, A co-signs as final.
+
+**Shot 1 — The space is not empty.** Risk-adjustment coding review is an existing, crowded vendor category: Episource, Apixio (Datavant), Vatica Health, Advantasure, Reveleer, Navina already sell first- and second-pass HCC chart review to exactly this buyer — and their QA processes (second-pass review, over-reads, IRR studies) generate audit-labeled truth data as a byproduct, contradicting "everyone starts from zero." Their obvious move when AI coding commoditizes their labor: rebrand the over-read apparatus as "certification." Name the thing they cannot do.
+
+**Shot 2 — The federal oracle is under litigation and is slow.** The 2023 RADV rule's extrapolation is being challenged (Humana's suit the flagship), and CMS audit throughput has historically covered a tiny fraction of contracts with multi-year lag. Two failure modes: (a) extrapolation struck down or settled soft → the nine-figure fear deflates to background compliance budget; (b) even if it stands, an oracle that fires rarely and late cannot feed a quarterly-re-priced actuarial table — the true calibration source is purchased audits, making the "adversarial external oracle" marketing backdrop, not data source. Is the thesis robust to RADV-minus-extrapolation?
+
+**Shot 3 — The calibration noise floor.** Inter-coder reliability on HCC-relevant coding is famously mediocre; MEAT criteria are judgment-laden. If gold labels carry 10–20% inter-rater noise: (a) "truth" is a distribution, not a label; (b) the 3%-ECE target may be achievable only by fitting auditor idiosyncrasy; (c) a RADV auditor's judgment may systematically differ from the startup's auditors — and the warranty pays on *their* judgment. Underwriting basis risk between two noisy raters is a nastier actuarial problem than underwriting your own error. At what point does the honest answer become "the warranty covers audit-defense costs, not findings" — a much smaller promise?
+
+**Shot 4 — The arithmetic.** ~180 MA parent organizations plus full-risk provider groups; at $150–600k ACV, a heroic 100 accounts is $15–60M ARR — a fine business, not obviously venture-scale. Give the honest ceiling: bull, base, bear year-5 ARR, and say plainly which kind of company this is.
+
+---
+
+## Round 4 — Debater B (final position, all shots absorbed)
+
+All four shots land at least partially. I absorb each, because what survives absorption is still a company — a more honestly sized one.
+
+**Shot 1 absorbed:** "Everyone starts from zero" was overstated; incumbent over-read data is labeled truth data. What survives: their labels are manufactured inside a capture-maximizing motion — over-reads exist to find missed HCCs, are rarely blind, and are calibrated to nothing. The thing they cannot do without breaking their own model: (a) issue a *neutral* certificate whose headline function includes deletion, against their paying customer's short-term revenue, and (b) carry contingent liability — reserves, version-locked models, caps, quarterly re-pricing through an MGA. An insurance company grafted onto a services company. Honest absorption: this is a 24–36 month structural head start, not a wall; the modal good outcome may be acquisition by exactly these players or a carrier. The category is crowded; the *instrument* — a calibrated, liability-backed certificate — does not yet exist in it. That instrument is the company or there is no company.
+
+**Shot 2 absorbed:** The oracle is a fear-pricer, not a data feed. RADV throughput is thin and years-lagged; calibration source is purchased audits regardless. Litigation status flagged as uncertain (recollection: Humana's challenge dismissed on procedural grounds in 2025, substantive question unresolved — fact-checker to overrule). Downside case, RADV-minus-extrapolation: the nine-figure tail deflates; what remains is DOJ FCA enforcement on MA coding (Cigna settled; Kaiser and UnitedHealth actions ongoing — flagged uncertain), OIG audits, non-extrapolated clawbacks. The floor preserves the symmetric loss function but re-prices the product from "existential insurance" toward "compliance line item" — roughly halving ACV; the difference between base and bear below.
+
+**Shot 3 absorbed — the deepest one: truth is a distribution, so the warranty must peg to a defined adjudicator, not to "truth."** Gold standard = consensus of N blinded auditors (three-coder panel, majority verdict, senior adjudicator on splits); the certificate's residual-risk number is calibrated to "probability a blinded panel rejects this code" — well-defined and measurable even under rater noise. The naive 3%-ECE-versus-single-auditor test is corrected to calibration against panel-consensus probabilities plus discrimination versus held-out panels. RADV basis risk — their rater versus our panel — is a *separate, explicitly priced loading*, capped where unpriceable. The warranty is two-tiered: full indemnity pegged to the blinded-panel standard (underwriting our own error), and for government-audit events, defense costs plus *capped* finding indemnity. A smaller promise than "we warrant CMS agrees" — and exactly how E&O insurance actually works, and still categorically more than any chart-review vendor offers, which is nothing.
+
+**Shot 4 absorbed:** base case is not venture-scale. Numbers below.
+
+### Final Position (co-signed by both debaters, subject to fact-check reconciliation)
+
+**(1) The company:** A neutral certification-and-warranty layer for AI-generated risk-adjustment coding, selling per-code certificates (SUPPORTED with calibrated residual risk / UNSUPPORTED–delete / MISSED) to at-risk entities — MA plans and full-risk provider groups — whose symmetric loss function (clawbacks and FCA tail versus lost capitation) makes them the one buyer who pays for accuracy rather than aggression. Ground truth is manufactured via blinded three-coder consensus panels on importance-sampled charts; adjudication and audit streams price drift and basis risk separately. Risk transfer runs through an MGA with a fronting carrier — version-locked models, per-claim and aggregate caps, quarterly re-pricing — never the startup's balance sheet.
+
+**(2) The moat, one sentence:** A compounding, panel-calibrated actuarial table plus liability-bearing structure that capture-paid incumbents cannot copy without inverting their per-HCC revenue model and taking insurance risk onto software P&Ls — a structural head start, honestly a 2–3 year one, not a wall.
+
+**(3) Falsification tests (6 months):** *Epistemic* — certificate residual-risk numbers calibrate to blinded-panel consensus on held-out charts (calibration error within noise-adjusted bounds; discrimination materially above single-rater agreement). *Commercial* — at least two at-risk entities pay real money for output that includes revenue-reducing deletion recommendations. Either failure kills the thesis.
+
+**(4) Year-5 ARR:** *Bear, $8–15M* — extrapolation dies in court, warranty stays defense-costs-only, product competes as a compliance tool in a crowded category. *Base, $30–60M* — 60–120 accounts at $300–500k blended ACV, modest warranty attach; an excellent focused company, likely acquired by Datavant, a carrier, or a clearinghouse. *Bull, $150–250M+* — the certificate becomes the de facto standard plans demand from every AI-coding vendor (certify-the-vendors channel multiplies past direct sales), expansion into Medicaid MCO and ACA risk adjustment plus point-of-care prospective coding, and warranty premium becomes real GWP with MGA economics. Venture-scale only in the bull case, stated plainly: a great company with a credible path to a big one, not a guaranteed mega-outcome.
+
+**(5) Single biggest risk:** That rater-basis risk proves unpriceable and the warranty quietly collapses into audit-defense cost coverage — at which point the product degrades into a well-marketed second-pass review tool inside an incumbent category, and the epistemic-warranty thesis, having failed in law for want of an oracle, fails here for want of a stable truth standard.
+
+---
